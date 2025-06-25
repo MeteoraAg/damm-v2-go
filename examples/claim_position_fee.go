@@ -170,6 +170,6 @@ func ClaimPositionFee() {
 	log.Fatalf("Transaction confirmation timeout")
 }
 
-func main() {
-	ClaimPositionFee()
-}
+// func main() {
+// 	ClaimPositionFee()
+// }

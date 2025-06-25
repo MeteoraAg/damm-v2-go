@@ -72,6 +72,6 @@ func GetUnclaimReward() {
 	fmt.Printf("Rewards: %s\n", unclaimedReward.Rewards)
 }
 
-// func main() {
-// 	GetUnclaimReward()
-// }
+func main() {
+	GetUnclaimReward()
+}

@@ -150,7 +150,7 @@ type PositionResult struct {
 }
 
 const (
-	LIQUIDITY_SCALE = 64
+	LIQUIDITY_SCALE = 128
 )
 
 type UnclaimReward struct {
