@@ -10,8 +10,8 @@ import (
 	associatedtokenaccount "github.com/gagliardetto/solana-go/programs/associated-token-account"
 	"github.com/gagliardetto/solana-go/rpc"
 
-	"github.com/dannwee/dbc-go/helpers"
-	"github.com/dannwee/dbc-go/instructions"
+	"github.com/MeteoraAg/damm-v2-go/helpers"
+	"github.com/MeteoraAg/damm-v2-go/instructions"
 )
 
 func ClaimPositionFee() {
@@ -170,6 +170,6 @@ func ClaimPositionFee() {
 	log.Fatalf("Transaction confirmation timeout")
 }
 
-// func main() {
-// 	ClaimPositionFee()
-// }
+//func main() {
+//	ClaimPositionFee()
+//}

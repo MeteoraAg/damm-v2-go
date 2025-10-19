@@ -1,7 +1,7 @@
 package helpers
 
 import (
-	"github.com/dannwee/dbc-go/common"
+	"github.com/MeteoraAg/damm-v2-go/common"
 	"github.com/gagliardetto/solana-go"
 )
 

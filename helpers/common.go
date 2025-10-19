@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/dannwee/dbc-go/common"
+	"github.com/MeteoraAg/damm-v2-go/common"
 	"github.com/gagliardetto/solana-go"
 	"lukechampine.com/uint128"
 )

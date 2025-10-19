@@ -6,9 +6,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dannwee/dbc-go/instructions"
 	"github.com/gagliardetto/solana-go"
 	"github.com/gagliardetto/solana-go/rpc"
+
+	"github.com/MeteoraAg/damm-v2-go/instructions"
 )
 
 func GetUserPositionByPool() {
@@ -55,6 +56,6 @@ func GetUserPositionByPool() {
 	fmt.Printf("Position state: %s\n", string(jsonData))
 }
 
-// func main() {
-// 	GetUserPositionByPool()
-// }
+//func main() {
+//	GetUserPositionByPool()
+//}

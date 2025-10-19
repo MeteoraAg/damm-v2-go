@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dannwee/dbc-go/instructions"
+	"github.com/MeteoraAg/damm-v2-go/instructions"
 	"github.com/gagliardetto/solana-go"
 	"github.com/gagliardetto/solana-go/rpc"
 )

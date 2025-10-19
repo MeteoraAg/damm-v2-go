@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/dannwee/dbc-go/common"
-	"github.com/dannwee/dbc-go/helpers"
+	"github.com/MeteoraAg/damm-v2-go/common"
+	"github.com/MeteoraAg/damm-v2-go/helpers"
 	"github.com/gagliardetto/solana-go"
 	"github.com/gagliardetto/solana-go/rpc"
 )
