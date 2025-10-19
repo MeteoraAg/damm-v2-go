@@ -3,7 +3,7 @@ package helpers
 import (
 	"math/big"
 
-	"github.com/dannwee/dbc-go/common"
+	"github.com/MeteoraAg/damm-v2-go/common"
 	"lukechampine.com/uint128"
 )
 
